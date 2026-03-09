@@ -1,0 +1,13 @@
+Implement a student management system, with the front end using JavaScript, the back end using Spring Boot (spring-boot-starter-parent version is 4.0; JDK version is 17), and the database using MySQL (MySQL version is 8.0; connect to MySQL: username is root, password is 123456).
+
+The import jakarta.validation cannot be resolved
+
+In the front-end index.html file, the 'Add Student' page is too long and has already exceeded the computer screen. Please redesign the 'Add Student' page (for example: split into two pages to add student information).
+
+In the front-end index.html file, the 'Next' button on the 'Add Student' page does not respond after entering all the student's information. Please correct the event response for the 'Next' button on the 'Add Student' page.
+
+In the front-end index.html file, after pressing the 'Edit' button, the 'Edit Student' page pops up. However, this 'Edit Student' page by default shows the student information from the second page, rather than the student information from the first page. Please correct it so that after pressing the 'Edit' button, the 'Edit Student' page that pops up by default displays the student information from the first page.
+
+In the front-end index.html file, please change the 'Gradient' style of the HTML table elements and the 'Gradient' style of the HTML button elements to regular styles.
+
+MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
