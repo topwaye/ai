@@ -11,3 +11,9 @@ In the front-end index.html file, after pressing the 'Edit' button, the 'Edit St
 In the front-end index.html file, please change the 'Gradient' style of the HTML table elements and the 'Gradient' style of the HTML button elements to regular styles.
 
 MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+
+In the front-end index.html file, please reduce the width of the HTML <select id="searchType"> element by half.
+
+In the front-end index.html file, once again, reduce the width of the HTML <select id="searchType"> element by half.
+
+In the front-end index.html file, please change the entire page's background color from a 'gradient' style to a regular style.

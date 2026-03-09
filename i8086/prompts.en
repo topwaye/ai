@@ -1,0 +1,1 @@
+Implement an Intel 8086 CPU operating system that can drive custom external hardware devices (for example: a custom external hardware device that triggers a 60H interrupt to notify the CPU after read and write operations are completed).
