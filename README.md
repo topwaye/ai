@@ -1,4 +1,4 @@
-# ai
+# Ai
 
 Use CodeArts Agent to create/open a project and enter prompts
 
